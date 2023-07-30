@@ -1,0 +1,21 @@
+.editCard {
+    
+}
+
+.editCard h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.editInp {
+    border-radius: 4px;
+    border: 1px solid #000000;
+    width: 150px
+}
+
+.editBtn {   
+    width: 150px;
+    height: 30px; 
+    border-radius: 4px;
+    font-size: 16px;
+}
